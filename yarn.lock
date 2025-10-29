@@ -4,7 +4,7 @@
 
 "@react-native-masked-view/masked-view@^0.2.3":
   version "0.2.3"
-  resolved "https://registry.yarnpkg.com/@react-native-masked-view/masked-view/-/masked-view-0.2.3.tgz#5f7a39be4787c89d5b35ac80de2ea5d0a0bb64d7"
+  resolved "https://registry.npmjs.org/@react-native-masked-view/masked-view/-/masked-view-0.2.3.tgz"
   integrity sha512-t8VcdaFbyXscNs26h/NCsPqVjawWHhIMzGBR9oCIx6kbDa7JW3Q67lNLGkzDudSVnw3Qv09JZrkLXXOGjOABpg==
 
 "@types/prop-types@*", "@types/prop-types@^15.7.3":
@@ -34,7 +34,7 @@ csstype@^3.0.2:
 
 react-native-linear-gradient@^2.5.6:
   version "2.5.6"
-  resolved "https://registry.yarnpkg.com/react-native-linear-gradient/-/react-native-linear-gradient-2.5.6.tgz#96215cbc5ec7a01247a20890888aa75b834d44a0"
+  resolved "https://registry.npmjs.org/react-native-linear-gradient/-/react-native-linear-gradient-2.5.6.tgz"
   integrity sha512-HDwEaXcQIuXXCV70O+bK1rizFong3wj+5Q/jSyifKFLg0VWF95xh8XQgfzXwtq0NggL9vNjPKXa016KuFu+VFg==
 
 typescript@^4.0.2:
